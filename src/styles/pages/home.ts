@@ -37,6 +37,7 @@ export const Product = styled('a', {
     justifyContent: 'space-between',
 
     backgroundColor: 'rgba(0, 0, 0, 0.6)',
+    color: '$gray100',
 
     transform: 'translateY(110%)',
     opacity: 0,
